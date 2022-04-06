@@ -7,4 +7,4 @@
 
 
 Live vercel deployment demo:
-https://instagram-demo-qyoop89zg-oklar.vercel.app/ (disclaimer: posts && images not regulated)
+https://instagram-demo-qyoop89zg-oklar.vercel.app/ (warning/disclaimer: posts && images not regulated)
